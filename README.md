@@ -15,14 +15,14 @@ I'm an **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuin
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning federated learning☕
+- 🔭 I’m currently learning NLP 
+- 🌱 I’m currently working on federated learning☕
 <img width="490" height="270" src="https://user-images.githubusercontent.com/39823304/170814800-b87b173c-b0c2-4b50-b1e0-752e4521e6f4.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
+  - 🛠 DIY Arduino Projects
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
