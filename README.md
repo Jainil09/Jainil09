@@ -30,8 +30,7 @@ I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing D
 
 
 
-<details>
-  <summary>Some more stuff 😄</summary>
+
   
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/GoogleColab-555555.svg?&style=flat-square&logo=googlecolab&logoColor=FF5733"> 
@@ -51,7 +50,6 @@ I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing D
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
-</details>
 
 
 ### 🚀 Quick Stats
@@ -69,11 +67,11 @@ I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing D
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
-<a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
+<a href="https://github.com/Jainil09/MachineLearning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jainil09&repo=MachineLearning&show_owner=true&theme=react" />
 </a>&ensp;
-<a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
+<a href="https://github.com/jainil09/DeepLearning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jainil09&repo=DeepLearning&show_owner=true&theme=react" />
 </a>
 </p>
 </details>
