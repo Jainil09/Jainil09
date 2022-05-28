@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. Apart from that I am freelance graphic designer & interested in crypto & NFTs. <br/><br/>
 
 
 
@@ -24,12 +24,9 @@ I'm an **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuin
   - 🖼 Computer Vision
   - 🛠 DIY Arduino Projects
   - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, DL, CV
 - 📙 Check out my [Resume](https://github.com/Jainil09/Jainil09/raw/main/Jainil_resume_DS.pdf)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 🎉 Fun-Fact: I ❤️ Astrophysics & Planetary Science
 
 
 
@@ -42,7 +39,6 @@ I'm an **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuin
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
   <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
