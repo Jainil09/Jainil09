@@ -63,7 +63,6 @@ I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing D
 ![Profile Views](https://komarev.com/ghpvc/?username=Jainil09)
 
 
-<details>
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
@@ -74,7 +73,7 @@ I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing D
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jainil09&repo=DeepLearning&show_owner=true&theme=react" />
 </a>
 </p>
-</details>
+
 
 
 
