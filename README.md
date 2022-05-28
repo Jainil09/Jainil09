@@ -28,7 +28,7 @@ I'm an **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuin
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, DL, CV
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 📙 Check out my [Resume](https://github.com/Jainil09/Jainil09/raw/main/Jainil_resume_DS.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
 
