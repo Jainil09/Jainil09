@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/Defcon27">Jainil</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello!, I am <a href="https://github.com/Defcon27">Jainil</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
 ### 📬 Find me at 
@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. Apart from that I am freelance graphic designer & interested in crypto & NFTs. <br/><br/>
+I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. Apart from that I am freelance graphic designer & interested in crypto & NFTs. <br/><br/>
 
 
 
