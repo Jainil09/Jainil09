@@ -16,7 +16,7 @@ I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing D
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently learning NLP 
-- 🌱 I’m currently working on federated learning☕
+- 🌱 I’m currently working on Survival Analysis☕
 <img width="490" height="270" src="https://user-images.githubusercontent.com/39823304/170814800-b87b173c-b0c2-4b50-b1e0-752e4521e6f4.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
