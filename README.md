@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** in Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. Apart from that I am freelance graphic designer & interested in crypto & NFTs. <br/><br/>
+I'm **Postgrad Student🎓 from[@PDEU Gandhinagar](https://pdpu.ac.in/)** in Data Science. Recently I have completed my 1 year Project Internship from CereBulb India Pvt Ltd. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. Apart from that I am freelance graphic designer & interested in crypto & NFTs. <br/><br/>
 
 
 
