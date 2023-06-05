@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. Apart from that I am freelance graphic designer & interested in crypto & NFTs. <br/><br/>
+I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** in Data Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech.I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. Apart from that I am freelance graphic designer & interested in crypto & NFTs. <br/><br/>
 
 
 
@@ -25,7 +25,7 @@ I'm **Postgrad Student🎓 [@PDEU Gandhinagar](https://pdpu.ac.in/)** pursuing D
   - 🛠 DIY Arduino Projects
   - 🤖 Robotics
 - 💬 Ask me about Python, ML, DL, CV
-- 📙 Check out my [Resume](https://github.com/Jainil09/Jainil09/raw/main/Jainil_resume_DS.pdf)
+- 📙 Check out my [Resume]()
 - 🎉 Fun-Fact: I ❤️ Astrophysics & Planetary Science
 
 
