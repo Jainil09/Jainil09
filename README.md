@@ -61,37 +61,6 @@ I'm **Postgrad Student🎓 from[@PDEU Gandhinagar](https://pdpu.ac.in/)** in Dat
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jainil09)
 
-
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Jainil09/MachineLearning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jainil09&repo=MachineLearning&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/jainil09/DeepLearning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jainil09&repo=DeepLearning&show_owner=true&theme=react" />
-</a>
-</p>
-
-
-
-
-<!--
-**Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-pic on right
-<img height="270" src="sss.svg" align=right>
-
- 
-views
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
-
-
-social modded badge
-<a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
-
 language badges:
 ![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
