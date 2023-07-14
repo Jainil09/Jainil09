@@ -1,4 +1,4 @@
-<h1> Hello!, I am <a href="https://github.com/Defcon27">Jainil</a> </h1>
+<h1> Hello!, I am Jainil</a> </h1>
 </h1>
 
 ### 📬 Find me at 
